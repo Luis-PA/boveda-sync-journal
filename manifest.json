@@ -1,0 +1,9 @@
+{
+  "id": "boveda-sync-journal",
+  "name": "Diario de sincronización",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Guarda la versión base y la tuya de cada nota que editas, para que el NAS y Claude puedan fusionar conflictos sin perder nada.",
+  "author": "Luis",
+  "isDesktopOnly": false
+}
